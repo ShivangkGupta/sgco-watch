@@ -1,4 +1,4 @@
-# sgco-watch
+# sgco-watch (Smart Guidance Watch)
 ESP32 smartwatch with MAX30102 pulse oximeter: BPM, SpO₂, HRV, breathing rate, OLED display and live web page
 
 OVERVIEW
